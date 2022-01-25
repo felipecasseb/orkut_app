@@ -6,7 +6,7 @@ Este é um projeto desenvolvido em Flutter para aprimorar o desenvolvimento de U
 
 ## Descrição
 
-O Orkut App é um projeto pessoal para desenvolvimento da UI criada por Gabriela Nogueira no Figma.
+O Orkut App é um projeto pessoal para desenvolvimento da UI criada pela designer de UI/UX Gabriela Nogueira no Figma.
 
 <p align="center">
     <img width="300" height="625" src="https://firebasestorage.googleapis.com/v0/b/me-guia-tracuateua.appspot.com/o/Orkut_App%2Flogin.png?alt=media&token=1a185d31-8d1e-4cd3-af1a-b27b0dbebcac">
